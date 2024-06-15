@@ -19,7 +19,7 @@ To get started with either the initial setup or the final version, follow these 
 
     ```bash
     git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
-    cd Notcoin-Clone
+    cd Notcoin-Telegram-Mini-App-Clone
     ```
 
 ### Initial Setup
